@@ -1,0 +1,18 @@
+# Scala.
+*.class
+*.log
+
+# SBT.
+.bsp
+
+# Maven.
+target
+
+# Idea.
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Misc.
+.DS_Store
