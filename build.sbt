@@ -1,4 +1,4 @@
-scalaVersion := "3.2.2"
+scalaVersion := "3.3.1"
 name := "reveal"
 organization := "org.rubin55"
 version := "0.0.1"
