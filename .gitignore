@@ -2,6 +2,9 @@
 **/*.class
 **/*.log
 
+# Scala FMT.
+.scalafmt.conf
+
 # SBT.
 **/.bsp
 
