@@ -1,4 +1,4 @@
-# Reveal - Son of Session
+# reveal - a command-line instance-of container/vm/physical-system/service manager
 
 Reveal, a Scala-native re-implementation of Session, implementing new ideas
 related to dynamic namespacing. Yes, this needs more explanation.

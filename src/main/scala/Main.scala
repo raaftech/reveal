@@ -1,4 +1,4 @@
-// TODO: Get started with Reveal, son of Session.
+// TODO: Get started with reveal.
 import scalanative.unsafe._
 
 @extern
